@@ -1,1 +1,6 @@
 case_id,deletion_status,steps_json
+
+```csv
+case_id,deletion_status,steps_json
+case_000,NOT_APPLICABLE,[]
+```
